@@ -1,4 +1,4 @@
-let result = 11;
+let result = 5 + 6;
 let addition = result + 2;
 let soustraction = result - 1;
 
